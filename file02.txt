@@ -1,5 +1,2 @@
-# .git
-.git
-
-# debug
-debug.log
+# Logs
+*.log
